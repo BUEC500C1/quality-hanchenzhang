@@ -12,6 +12,6 @@ Deadline for completion of this project is January 29th, 2019.
 You are expected to show all aspects of your work. This includes results of build process. 
 You are expected to use Github actively during this exercise.
 
-#The Process of Hanchen Zhang's Excercise:
+# The Process of Hanchen Zhang's Excercise:
 1. Finshed the python program called aratorom.py that convert the arabic number to roman numerals.
-2. Github Action in progress now.
+2. Github Action has already implemented.
