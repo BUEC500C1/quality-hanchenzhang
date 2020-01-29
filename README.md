@@ -15,3 +15,6 @@ You are expected to use Github actively during this exercise.
 # The Process of Hanchen Zhang's Excercise:
 1. Finshed the python program called aratorom.py that convert the arabic number to roman numerals.
 2. Github Action has already implemented.
+
+# Additional Information
+This number converter could only handle integer in the range of 1 to 3999 since larger number contains unknown lable in the python program.
